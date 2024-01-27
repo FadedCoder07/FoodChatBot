@@ -8,5 +8,5 @@ app = FastAPI()
 
 
 async def root():
-    return {"message": "helllo world and hi"}
+    return {"message": "helllo world "}
 
